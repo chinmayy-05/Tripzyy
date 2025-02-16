@@ -1,0 +1,2 @@
+# Tripzyy
+Python mini project
